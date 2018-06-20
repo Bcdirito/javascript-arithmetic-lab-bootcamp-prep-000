@@ -14,7 +14,7 @@ function divide (a,b) {
   var divide = a/b;
   return divide;
 }
-function inc(a) {
+function inc(n) {
   var inc = a+=n;
   return inc;
 }
