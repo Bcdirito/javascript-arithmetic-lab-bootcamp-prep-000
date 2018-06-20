@@ -14,8 +14,7 @@ function divide (a,b) {
   var divide = a/b;
   return divide;
 }
-function inc(n) {
-  var a = Math.floor(Math.random() * 1000) 
+function inc(a) {
   var inc = a+1;
   return inc;
 }
