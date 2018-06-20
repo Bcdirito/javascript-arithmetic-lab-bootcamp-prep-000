@@ -26,3 +26,6 @@ function makeInt(n) {
   var Int = parseInt('n', 10);
   return Int
 }
+function preserveDecimal(n) {
+  var parseFloat=('n');
+}
