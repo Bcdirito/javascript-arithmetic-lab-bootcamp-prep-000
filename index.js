@@ -18,7 +18,7 @@ function inc(a) {
   var inc = a+1;
   return inc;
 }
-function dec(n) {
+function dec(a) {
   var dec = a-1;
   return dec;
 }
