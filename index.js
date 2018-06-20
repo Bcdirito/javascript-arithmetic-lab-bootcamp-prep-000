@@ -23,5 +23,5 @@ function dec(a) {
   return dec;
 }
 function makeInt(n) {
-  var n = 2.22;
+  return (n, 10);
 }
