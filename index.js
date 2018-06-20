@@ -1,6 +1,3 @@
-var a=1;
-var b=2;
-
 function add(a,b) {
     var add = a+b;
     return add;
@@ -18,6 +15,7 @@ function divide (a,b) {
   return divide;
 }
 function inc(n) {
+ var inc = a+1
   return a+1;
 }
 function dec(n) {
