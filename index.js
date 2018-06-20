@@ -1,3 +1,5 @@
+var n=1
+
 function add(a,b) {
     var add = a+b;
     return add;
