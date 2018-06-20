@@ -16,7 +16,7 @@ function divide (a,b) {
 }
 function inc(n) {
   var number = a;
-  var int = a+1;
+  var inc = a+1;
 }
 function dec(n) {
   var dec = a-1;
